@@ -6,8 +6,8 @@ This repo describes how to provision the following architecture.
 
 ## Environment
 
-Cloud: Google Cloud Platform
-Ranher Server: Compute Engine Instance (n2-standard-2)\n
+Cloud: Google Cloud Platform <\n>
+Ranher Server: Compute Engine Instance (n2-standard-2) <\n>
 Kubernetes Cluster: GKE
 Region: us-east-1
 Zone: us-east-1c
