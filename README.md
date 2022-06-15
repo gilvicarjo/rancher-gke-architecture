@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=gP-vmWwGBbg
 ## Step 4 - Provisioning Artifactory Registry
 https://cloud.google.com/artifact-registry/docs/repositories/create-repos#before_you_begin
 
-  
 ## Step 5 - Create the NGINX Image with SSL certificate
 https://faun.pub/setting-up-ssl-certificates-for-nginx-in-docker-environ-e7eec5ebb418
+
+## Step 6 - Push the NGINX Image to Artifactory Registry
+https://cloud.google.com/artifact-registry/docs/docker/store-docker-container-images
