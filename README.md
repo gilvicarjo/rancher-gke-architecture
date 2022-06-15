@@ -1,4 +1,4 @@
-# rancher-gke-architecture
+# gke-architecture
 
 This repo describes how to provision the following architecture.
 
@@ -7,8 +7,7 @@ This repo describes how to provision the following architecture.
 ## Environment
 
 **Cloud**: Google Cloud Platform<p>
-**Ranher Server**: Google Kubernetes Engine (n2-standard-2)<p>
-**Kubernetes Cluster**: Google Kubernetes Engine<p>
+**Kubernetes Cluster**: Google Kubernetes Engine (n2-standard-2)<p>
 **Region**: us-east-1<p>
 **Zone**: us-east-1c<p>
 
@@ -16,6 +15,13 @@ This repo describes how to provision the following architecture.
 
 ## Step 2 - Provision the Gitlab CI Instance
 
-## Step 3 - Provision the Rancher Server
 
-## Step 4 - Install the NGINX Ingress Controller Load Balancer
+## Step 3 - Install the NGINX Ingress Controller Load Balancer
+https://www.youtube.com/watch?v=gP-vmWwGBbg
+
+## Step 4 - Provisioning Artifactory Registry
+https://cloud.google.com/artifact-registry/docs/repositories/create-repos#before_you_begin
+
+  
+## Step 5 - Create the NGINX Image with SSL certificate
+https://faun.pub/setting-up-ssl-certificates-for-nginx-in-docker-environ-e7eec5ebb418
